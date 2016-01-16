@@ -1,11 +1,12 @@
-# Hello!
-## This is a smaller hello.
+# Tony's Part-time GA Data Science Repo 
+## This is what I spend my Saturdays doing from Janunary to March in 2016
 
-*I'm going to try to make this slanted*
-**and this big**
+*Learning some data science techniques and Python*
+
+**Misra's the man**
 
 [This is my website](http://tonyktan.com)
-`simple introduction to myself
+`This website is built using twitter bootstrap
 
 `this is super code`
 
