@@ -9,8 +9,13 @@
 
 *This website is built using twitter bootstrap
 
-`this is super code`
+This is some example code to display inline code
+
+`var GA = function(code) { return code; };`
 
 ```
-this is a code block.
+var GADAT = function(bigcode) {
+  bigcode = bigcode + "hello";
+  return bigcode;
+};
 ```
