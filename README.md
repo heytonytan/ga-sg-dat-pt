@@ -5,10 +5,10 @@
 **and this big**
 
 [This is my website](http://tonyktan.com)
-*simple introduction to myself
+`simple introduction to myself
 
-'this is super code'
+`this is super code`
 
-'''
+```
 this is a code block.
-'''
+```
