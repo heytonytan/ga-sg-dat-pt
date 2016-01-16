@@ -1,5 +1,5 @@
 # Tony's Part-time GA Data Science Repo 
-## This is what I spend my Saturdays on from January to March 2016
+## This is what I spend my Saturdays doing from January to March 2016
 
 *Learning some data science techniques and Python*
 
